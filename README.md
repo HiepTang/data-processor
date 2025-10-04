@@ -1,4 +1,4 @@
-# Data Processor (OpenText Coding Assignment)
+# Data Processor
 
 A Spring Boot (Java 17) implementation of an ordered, concurrent message processor that compresses and decompresses large data objects using a streaming Run-Length Encoding (RLE) algorithm. The system preserves per-object ordering, allows parallelism across different objects, and performs atomic, memory-efficient file I/O.
 
